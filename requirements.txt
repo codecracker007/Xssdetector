@@ -1,0 +1,6 @@
+requests
+pprint
+bs4
+urllib
+urllib3
+pwn
